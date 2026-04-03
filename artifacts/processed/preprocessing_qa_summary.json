@@ -1,0 +1,62 @@
+{
+  "raw_counts": {
+    "weather_rows": 2192,
+    "monitoring_rows_after_scope_filter": 467,
+    "monitoring_context_rows_after_scope_filter": 467,
+    "advisory_rows_after_scope_filter": 56
+  },
+  "retained_sites": [
+    "Polo Lake",
+    "Willow Lake",
+    "Roosevelt Lake",
+    "Pleasure Lake",
+    "Edgewood Lake",
+    "Cunliff Lake",
+    "Deep Spring Lake",
+    "Elm Lake",
+    "Spectacle Pond",
+    "Mashapaug Pond"
+  ],
+  "excluded_monitoring_sites": {
+    "Fenner_Pond": 39,
+    "Tongue_Pond": 39
+  },
+  "category_counts": {
+    "Category_1": 8,
+    "Category_2": 2
+  },
+  "filtered_monitoring_site_counts": {
+    "Roosevelt Lake": 74,
+    "Pleasure Lake": 33,
+    "Cunliff Lake": 81,
+    "Polo Lake": 70,
+    "Elm Lake": 32,
+    "Edgewood Lake": 22,
+    "Spectacle Pond": 46,
+    "Mashapaug Pond": 47,
+    "Willow Lake": 22,
+    "Deep Spring Lake": 40
+  },
+  "weather": {
+    "date_min": "2020-01-01",
+    "date_max": "2025-12-31",
+    "row_count": 2192
+  },
+  "advisories": {
+    "open_ended_events": 14,
+    "overlap_censored_events": 6,
+    "negative_duration_events": 0
+  },
+  "monitoring_outputs": {
+    "location_rows": 465,
+    "site_day_rows": 21920
+  },
+  "site_day_panel": {
+    "rows": 21920,
+    "unique_site_dates": 21920
+  },
+  "task_panels": {
+    "onset_rows": 12520,
+    "termination_rows": 1982
+  }
+}

@@ -1,0 +1,57 @@
+advisory_event_id,site_name,major_category,advisory_waterbody,town,advisory_posted,advisory_lifted_original,effective_active_end_inclusive,effective_active_end_exclusive,open_ended,censored_by_overlap,is_censored,termination_eligible,termination_label_date,next_posted_date,effective_active_duration_days
+cunliff_lake_event_01,Cunliff Lake,Category_1,Cunliff Lake - Roger Williams Park,Providence,2016-09-30,2016-11-16,2016-11-15,2016-11-16,0,0,0,1,2016-11-16,2022-07-15,47
+cunliff_lake_event_02,Cunliff Lake,Category_1,Cunliff Lake - Roger Williams Park,Providence,2022-07-15,2022-12-29,2022-12-28,2022-12-29,0,0,0,1,2022-12-29,2024-07-05,167
+cunliff_lake_event_03,Cunliff Lake,Category_1,Cunliff Lake - Roger Williams Park,Providence,2024-07-05,,2025-12-31,2026-01-01,1,0,1,0,,,545
+deep_spring_lake_event_01,Deep Spring Lake,Category_1,Deep Spring Lake - Roger Williams Park,Providence,2024-07-09,,2025-12-31,2026-01-01,1,0,1,0,,,541
+edgewood_lake_event_01,Edgewood Lake,Category_1,Edgewood Lake - Roger Williams Park,Providence,2018-08-10,2018-11-07,2018-11-06,2018-11-07,0,0,0,1,2018-11-07,2020-09-25,89
+edgewood_lake_event_02,Edgewood Lake,Category_1,Edgewood Lake - Roger Williams Park,Providence,2020-09-25,2020-12-07,2020-12-06,2020-12-07,0,0,0,1,2020-12-07,2022-07-22,73
+edgewood_lake_event_03,Edgewood Lake,Category_1,Edgewood Lake - Roger Williams Park,Providence,2022-07-22,2022-12-29,2022-12-28,2022-12-29,0,0,0,1,2022-12-29,,160
+elm_lake_event_01,Elm Lake,Category_1,Elm Lake - Roger Williams Park,Providence,2016-09-30,2016-11-16,2016-11-15,2016-11-16,0,0,0,1,2016-11-16,2017-07-07,47
+elm_lake_event_02,Elm Lake,Category_1,Elm Lake - Roger Williams Park,Providence,2017-07-07,2017-12-29,2017-12-28,2017-12-29,0,0,0,1,2017-12-29,2019-08-09,175
+elm_lake_event_03,Elm Lake,Category_1,Elm Lake - Roger Williams Park,Providence,2019-08-09,2019-12-17,2019-12-16,2019-12-17,0,0,0,1,2019-12-17,2020-09-10,130
+elm_lake_event_04,Elm Lake,Category_1,Elm Lake - Roger Williams Park,Providence,2020-09-10,2020-12-07,2020-12-06,2020-12-07,0,0,0,1,2020-12-07,2022-07-08,88
+elm_lake_event_05,Elm Lake,Category_1,Elm Lake - Roger Williams Park,Providence,2022-07-08,2022-12-29,2022-12-28,2022-12-29,0,0,0,1,2022-12-29,2024-07-05,174
+elm_lake_event_06,Elm Lake,Category_1,Elm Lake - Roger Williams Park,Providence,2024-07-05,,2025-12-31,2026-01-01,1,0,1,0,,,545
+mashapaug_pond_event_01,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2011-09-23,2011-11-01,2011-10-31,2011-11-01,0,0,0,1,2011-11-01,2012-08-15,39
+mashapaug_pond_event_02,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2012-08-15,2012-11-01,2012-10-31,2012-11-01,0,0,0,1,2012-11-01,2013-07-30,78
+mashapaug_pond_event_03,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2013-07-30,2013-11-02,2013-11-01,2013-11-02,0,0,0,1,2013-11-02,2014-09-11,95
+mashapaug_pond_event_04,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2014-09-11,,2016-09-15,2016-09-16,1,1,1,0,,2016-09-16,736
+mashapaug_pond_event_05,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2016-09-16,2016-12-15,2016-12-14,2016-12-15,0,0,0,1,2016-12-15,2017-09-12,90
+mashapaug_pond_event_06,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2017-09-12,2017-11-02,2017-11-01,2017-11-02,0,0,0,1,2017-11-02,2018-07-25,51
+mashapaug_pond_event_07,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2018-07-25,2018-12-08,2018-12-07,2018-12-08,0,0,0,1,2018-12-08,2019-08-09,136
+mashapaug_pond_event_08,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2019-08-09,2019-12-17,2019-12-16,2019-12-17,0,0,0,1,2019-12-17,2020-09-28,130
+mashapaug_pond_event_09,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2020-09-28,2020-12-31,2020-12-30,2020-12-31,0,0,0,1,2020-12-31,2021-07-13,94
+mashapaug_pond_event_10,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2021-07-13,2021-12-07,2021-12-06,2021-12-07,0,0,0,1,2021-12-07,2022-07-22,147
+mashapaug_pond_event_11,Mashapaug Pond,Category_2,Mashapaug Pond,Cranston,2022-07-22,2022-12-29,2022-12-28,2022-12-29,0,0,0,1,2022-12-29,2023-10-06,160
+mashapaug_pond_event_12,Mashapaug Pond,Category_2,Mashapaug Pond,Cranston,2023-10-06,,2024-07-31,2024-08-01,1,1,1,0,,2024-08-01,300
+mashapaug_pond_event_13,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2024-08-01,,2025-09-25,2025-09-26,1,1,1,0,,2025-09-26,421
+mashapaug_pond_event_14,Mashapaug Pond,Category_2,Mashapaug Pond,Providence,2025-09-26,2025-12-01,2025-11-30,2025-12-01,0,0,0,1,2025-12-01,,66
+pleasure_lake_event_01,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2017-08-18,2017-09-12,2017-09-11,2017-09-12,0,0,0,1,2017-09-12,2017-09-27,25
+pleasure_lake_event_02,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2017-09-27,2017-11-02,2017-11-01,2017-11-02,0,0,0,1,2017-11-02,2018-08-21,36
+pleasure_lake_event_03,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2018-08-21,2018-11-07,2018-11-06,2018-11-07,0,0,0,1,2018-11-07,2019-08-09,78
+pleasure_lake_event_04,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2019-08-09,2019-12-17,2019-12-16,2019-12-17,0,0,0,1,2019-12-17,2020-09-25,130
+pleasure_lake_event_05,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2020-09-25,2020-12-07,2020-12-06,2020-12-07,0,0,0,1,2020-12-07,2022-07-22,73
+pleasure_lake_event_06,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2022-07-22,2022-12-29,2022-12-28,2022-12-29,0,0,0,1,2022-12-29,2024-07-30,160
+pleasure_lake_event_07,Pleasure Lake,Category_1,Pleasure Lake - Roger Williams Park,Providence,2024-07-30,,2025-12-31,2026-01-01,1,0,1,0,,,520
+polo_lake_event_01,Polo Lake,Category_1,Polo Lake - Roger Williams Park,Providence,2020-10-09,2020-12-07,2020-12-06,2020-12-07,0,0,0,1,2020-12-07,2022-07-22,59
+polo_lake_event_02,Polo Lake,Category_1,Polo Lake - Roger Williams Park,Providence,2022-07-22,,2024-07-04,2024-07-05,1,1,1,0,,2024-07-05,714
+polo_lake_event_03,Polo Lake,Category_1,Polo Lake - Roger Williams Park,Providence,2024-07-05,,2025-12-31,2026-01-01,1,0,1,0,,,545
+roosevelt_lake_event_01,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2017-07-07,2017-12-29,2017-12-28,2017-12-29,0,0,0,1,2017-12-29,2018-07-25,175
+roosevelt_lake_event_02,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2018-07-25,2018-12-08,2018-12-07,2018-12-08,0,0,0,1,2018-12-08,2019-08-09,136
+roosevelt_lake_event_03,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2019-08-09,2019-12-17,2019-12-16,2019-12-17,0,0,0,1,2019-12-17,2020-10-09,130
+roosevelt_lake_event_04,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2020-10-09,2020-12-31,2020-12-30,2020-12-31,0,0,0,1,2020-12-31,2022-06-27,83
+roosevelt_lake_event_05,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2022-06-27,2022-07-15,2022-07-14,2022-07-15,0,0,0,1,2022-07-15,2022-07-22,18
+roosevelt_lake_event_06,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2022-07-22,,2024-07-29,2024-07-30,1,1,1,0,,2024-07-30,739
+roosevelt_lake_event_07,Roosevelt Lake,Category_1,Roosevelt Lake - Roger Williams Park,Providence,2024-07-30,,2025-12-31,2026-01-01,1,0,1,0,,,520
+spectacle_pond_event_01,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2011-09-23,2011-11-01,2011-10-31,2011-11-01,0,0,0,1,2011-11-01,2014-09-24,39
+spectacle_pond_event_02,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2014-09-24,2014-11-01,2014-10-31,2014-11-01,0,0,0,1,2014-11-01,2017-07-24,38
+spectacle_pond_event_03,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2017-07-24,2017-12-29,2017-12-28,2017-12-29,0,0,0,1,2017-12-29,2018-09-10,158
+spectacle_pond_event_04,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2018-09-10,2018-12-08,2018-12-07,2018-12-08,0,0,0,1,2018-12-08,2020-09-10,89
+spectacle_pond_event_05,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2020-09-10,2020-12-07,2020-12-06,2020-12-07,0,0,0,1,2020-12-07,2021-07-13,88
+spectacle_pond_event_06,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2021-07-13,2021-12-21,2021-12-20,2021-12-21,0,0,0,1,2021-12-21,2023-07-28,161
+spectacle_pond_event_07,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2023-07-28,2023-08-25,2023-08-24,2023-08-25,0,0,0,1,2023-08-25,2023-10-06,28
+spectacle_pond_event_08,Spectacle Pond,Category_2,Spectacle Pond,Cranston,2023-10-06,,2025-12-31,2026-01-01,1,0,1,0,,,818
+willow_lake_event_01,Willow Lake,Category_1,Willow Lake - Roger Williams Park,Providence,2018-08-10,2018-11-07,2018-11-06,2018-11-07,0,0,0,1,2018-11-07,2020-06-25,89
+willow_lake_event_02,Willow Lake,Category_1,Willow Lake - Roger Williams Park,Providence,2020-06-25,2020-12-07,2020-12-06,2020-12-07,0,0,0,1,2020-12-07,2022-07-22,165
+willow_lake_event_03,Willow Lake,Category_1,Willow Lake - Roger Williams Park,Providence,2022-07-22,,2024-07-29,2024-07-30,1,1,1,0,,2024-07-30,739
+willow_lake_event_04,Willow Lake,Category_1,Willow Lake - Roger Williams Park,Providence,2024-07-30,,2025-12-31,2026-01-01,1,0,1,0,,,520
