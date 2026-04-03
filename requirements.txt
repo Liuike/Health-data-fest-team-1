@@ -7,3 +7,4 @@ matplotlib
 seaborn
 nbformat
 ipykernel
+xgboost
