@@ -3,6 +3,7 @@ scikit-learn
 shap
 pandas
 numpy
+scipy
 matplotlib
 seaborn
 nbformat
