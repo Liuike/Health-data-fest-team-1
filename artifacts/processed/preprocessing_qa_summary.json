@@ -1,8 +1,8 @@
 {
   "raw_counts": {
     "weather_rows": 2192,
-    "monitoring_rows_after_scope_filter": 467,
-    "monitoring_context_rows_after_scope_filter": 467,
+    "monitoring_rows_after_scope_filter": 545,
+    "monitoring_context_rows_after_scope_filter": 545,
     "advisory_rows_after_scope_filter": 56
   },
   "retained_sites": [
@@ -14,16 +14,15 @@
     "Cunliff Lake",
     "Deep Spring Lake",
     "Elm Lake",
+    "Fenner Pond",
     "Spectacle Pond",
-    "Mashapaug Pond"
+    "Mashapaug Pond",
+    "Tongue Pond"
   ],
-  "excluded_monitoring_sites": {
-    "Fenner_Pond": 39,
-    "Tongue_Pond": 39
-  },
+  "excluded_monitoring_sites": {},
   "category_counts": {
-    "Category_1": 8,
-    "Category_2": 2
+    "Category_1": 9,
+    "Category_2": 3
   },
   "filtered_monitoring_site_counts": {
     "Roosevelt Lake": 74,
@@ -35,7 +34,9 @@
     "Spectacle Pond": 46,
     "Mashapaug Pond": 47,
     "Willow Lake": 22,
-    "Deep Spring Lake": 40
+    "Deep Spring Lake": 40,
+    "Fenner Pond": 39,
+    "Tongue Pond": 39
   },
   "weather": {
     "date_min": "2020-01-01",
@@ -48,15 +49,15 @@
     "negative_duration_events": 0
   },
   "monitoring_outputs": {
-    "location_rows": 465,
-    "site_day_rows": 21920
+    "location_rows": 543,
+    "site_day_rows": 26304
   },
   "site_day_panel": {
-    "rows": 21920,
-    "unique_site_dates": 21920
+    "rows": 26304,
+    "unique_site_dates": 26304
   },
   "task_panels": {
-    "onset_rows": 12520,
+    "onset_rows": 16904,
     "termination_rows": 1982
   }
 }
